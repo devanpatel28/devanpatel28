@@ -44,8 +44,9 @@
 
 <br/>
 
-<h2 align="left">My Coding Stats</h2>
-<br/>
+
+## My Coding Stats
+
 [![wakatime](https://wakatime.com/badge/user/018e83ee-130d-4ec9-a213-464de0bd2f06.svg)](https://wakatime.com/@018e83ee-130d-4ec9-a213-464de0bd2f06)
 
 <div>
@@ -58,7 +59,8 @@
 </div>
 </br>
       
-<h2 align="left">My Pinned Repositories:</h2>
+## My Pinned Repositories: 
+
 <div>
     <a href="https://github.com/devanpatel28/loreto-react">
     <img align="center" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=loreto-react&theme=dark" />
