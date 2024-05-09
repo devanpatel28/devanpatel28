@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">👯 Looking forward to work more in JS, Flutter and JAVA, specially ERP Projects.<br>💬 Ask me about: Anything!<br>📫 You can reach me on: devanbhensdadiya123@gmail.com</p>
+- 👯 Looking forward to work more in JS, Flutter and JAVA, specially ERP Projects.
+- 💬 Ask me about: Anything!
+- 📫 You can reach me on: devanbhensdadiya123@gmail.com
 
 ###
 
