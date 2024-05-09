@@ -44,5 +44,5 @@
 
 ###
 
-[![wakatime](https://wakatime.com/badge/user/b0bb76ee-adce-4d72-919a-ee87f31be648.svg)](https://wakatime.com/@devanpatel28)
+[![wakatime](https://wakatime.com/badge/user/@devanpatel28.svg)](https://wakatime.com/@devanpatel28)
 
