@@ -44,4 +44,5 @@
 
 ###
 
-<p align="left">You can check out my coding activity on Wakatime <a href="https://wakatime.com/@devanpatel28">here</a>.</p>
+[![wakatime](https://wakatime.com/badge/user/b0bb76ee-adce-4d72-919a-ee87f31be648.svg)](https://wakatime.com/@devanpatel28)
+
