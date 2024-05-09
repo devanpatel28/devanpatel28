@@ -44,5 +44,15 @@
 
 ###
 
-[![wakatime](https://wakatime.com/badge/user/@devanpatel28.svg)](https://wakatime.com/@devanpatel28)
+[![wakatime](https://wakatime.com/badge/user/waka_278ab6c7-c702-4d91-8605-94e44959da5a.svg)](https://wakatime.com/@b0bb76ee-adce-4d72-919a-ee87f31be648)
+
+<div>
+    <a href="">
+    <img align="top" alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=devanpatel28&theme=dark"/>
+    </a>
+    <a href="">
+    <img align="top" alt="top-languages-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanpatel28&hide=jupyter%20notebook,html&langs_count=4&theme=dark/>
+    </a>
+</div>
+</br>
 
