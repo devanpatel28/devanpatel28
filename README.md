@@ -62,16 +62,16 @@
 
 <div>
     <a href="https://github.com/devanpatel28/loreto-react">
-    <img align="center" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=loreto-react&theme=dark" />
+    <img style="margin-10px" align="center" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=loreto-react&theme=dark" />
     </a>
     <a href="https://github.com/devanpatel28/devhit-mobile">
-    <img align="top" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=devhit-mobile&theme=dark" />
+    <img style="margin-10px" align="top" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=devhit-mobile&theme=dark" />
     </a>
     <a href="https://github.com/devanpatel28/ict-portal">
-    <img align="bottom" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=ict-portal&theme=dark" />
+    <img style="margin-10px" align="bottom" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=ict-portal&theme=dark" />
     </a>
     <a href="https://github.com/devanpatel28/ColoroGraph">
-    <img align="bottom" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=ColoroGraph&theme=dark" />
+    <img style="margin-10px" align="bottom" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=ColoroGraph&theme=dark" />
     </a>
 </div>
 
