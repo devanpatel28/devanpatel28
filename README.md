@@ -44,7 +44,7 @@
 
 ###
 
-[![wakatime](https://wakatime.com/badge/user/@waka_278ab6c7-c702-4d91-8605-94e44959da5a.svg)](https://wakatime.com/@b0bb76ee-adce-4d72-919a-ee87f31be648)
+[![wakatime](https://wakatime.com/badge/user/018e83ee-130d-4ec9-a213-464de0bd2f06.svg)](https://wakatime.com/@018e83ee-130d-4ec9-a213-464de0bd2f06)
 
 <div>
     <a href="">
