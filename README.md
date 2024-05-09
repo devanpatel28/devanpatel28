@@ -53,9 +53,6 @@
     <a href="">
     <img align="top" alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=devanpatel28&theme=dark"/>
     </a>
-    <a href="">
-    <img align="top" alt="top-languages-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanpatel28&hide=jupyter%20notebook,html&langs_count=4&theme=dark/>
-    </a>
 </div>
 </br>
       
