@@ -44,8 +44,8 @@
 
 <br/>
 
-###
 <h2 align="left">My Coding Stats</h2>
+<br/>
 [![wakatime](https://wakatime.com/badge/user/018e83ee-130d-4ec9-a213-464de0bd2f06.svg)](https://wakatime.com/@018e83ee-130d-4ec9-a213-464de0bd2f06)
 
 <div>
@@ -58,7 +58,6 @@
 </div>
 </br>
       
-### 
 <h2 align="left">My Pinned Repositories:</h2>
 <div>
     <a href="https://github.com/devanpatel28/loreto-react">
