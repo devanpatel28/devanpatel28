@@ -72,3 +72,5 @@
     <img align="bottom" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=ColoroGraph&theme=dark" />
     </a>
 </div>
+
+<img src="https://raw.githubusercontent.com/devanpatel28/devanpatel28/output/snake.svg" alt="Snake animation" />
