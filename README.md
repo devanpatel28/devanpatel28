@@ -42,7 +42,8 @@
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
 </div>
 
-###
+<br/>
+
 ## My Coding Stats
 
 [![wakatime](https://wakatime.com/badge/user/018e83ee-130d-4ec9-a213-464de0bd2f06.svg)](https://wakatime.com/@018e83ee-130d-4ec9-a213-464de0bd2f06)
@@ -56,4 +57,20 @@
     </a>
 </div>
 </br>
+      
+## My Pinned Repositories: 
 
+<div>
+    <a href="https://github.com/devanpatel28/loreto-react">
+    <img align="center" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=loreto-react&theme=dark" />
+    </a>
+    <a href="https://github.com/devanpatel28/devhit-mobile">
+    <img align="top" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=devhit-mobile&theme=dark" />
+    </a>
+    <a href="https://github.com/devanpatel28/ict-portal">
+    <img align="bottom" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=ict-portal&theme=dark" />
+    </a>
+    <a href="https://github.com/devanpatel28/ColoroGraph">
+    <img align="bottom" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=ColoroGraph&theme=dark" />
+    </a>
+</div>
