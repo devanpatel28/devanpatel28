@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am Devan Bhensdadiya, an ICT Engineering Under Graduate from Marwadi University, Rajkot, Gujarat.</h4>
+<h4 align="left">I am Devan Bhensdadiya, an ICT Engineering under graduate student from Marwadi University, Rajkot, Gujarat.</h4>
 
 ###
 
