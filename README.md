@@ -35,13 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
 </div>
 
 <br/>
@@ -64,8 +57,8 @@
     <a href="https://github.com/devanpatel28/loreto-react">
         <img style="margin: 10px;" align="center" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=loreto-react&theme=dark" />
     </a>
-    <a href="https://github.com/devanpatel28/devhit-mobile">
-        <img style="margin: 10px;" align="top" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=devhit-mobile&theme=dark" />
+    <a href="https://github.com/devanpatel28/construction-management-app">
+        <img style="margin: 10px;" align="top" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=construction-management-app&theme=dark" />
     </a>
     <a href="https://github.com/devanpatel28/ict-portal">
         <img style="margin: 10px;" align="bottom" alt="repo-card" src="https://github-readme-stats-josh.vercel.app/api/pin/?username=devanpatel28&repo=ict-portal&theme=dark" />
