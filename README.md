@@ -42,7 +42,7 @@
 
 ## My Coding Stats
 
-[![wakatime](https://wakatime.com/badge/user/018e83ee-130d-4ec9-a213-464de0bd2f06.svg)](https://wakatime.com/@018e83ee-130d-4ec9-a213-464de0bd2f06)
+<a href="https://wakatime.com/@018e83ee-130d-4ec9-a213-464de0bd2f06"><img src="https://wakatime.com/badge/user/018e83ee-130d-4ec9-a213-464de0bd2f06.svg" alt="Total time coded since Mar 28 2024" /></a>
 
 <div>
     <a href="">
