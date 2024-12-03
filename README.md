@@ -6,7 +6,7 @@
 
 ###
 
-- 👯 Looking forward to work more in JS, Flutter and JAVA, specially ERP Projects.
+- 👯 Looking forward to work more in JS, Flutter and JAVA.
 - 💬 Ask me about: Anything!
 - 📫 You can reach me on: devanbhensdadiya123@gmail.com
 
@@ -29,11 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
 </div>
 
