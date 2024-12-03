@@ -7,7 +7,6 @@
 ###
 
 - 👯 Looking forward to work more in JS, Flutter and JAVA.
-- 💬 Ask me about: Anything!
 - 📫 You can reach me on: devanbhensdadiya123@gmail.com
 
 ###
