@@ -1,1 +1,1 @@
-[<img src="https://dimaglushkov.xyz/static/contriseg_move.gif" width="100%" >](https://github.com/dimaglushkov/contriseg)
+[<img src="https://dimaglushkov.xyz/static/contriseg_move.gif" width="100%" >]
