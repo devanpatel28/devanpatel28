@@ -10,7 +10,7 @@
 ---
 
 ### 💡 Fun fact
-"I turn ideas into working code "
+"I turn ideas into working code"
 
 
 <img src="https://dimaglushkov.xyz/static/contriseg_move.gif" width="100%" >
